@@ -1,0 +1,364 @@
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\appsettings.Development.json
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\appsettings.json
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\WebAPIProjectFirst.staticwebassets.endpoints.json
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\WebAPIProjectFirst.exe
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\WebAPIProjectFirst.deps.json
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\WebAPIProjectFirst.runtimeconfig.json
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\WebAPIProjectFirst.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\WebAPIProjectFirst.pdb
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Azure.Core.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Azure.Identity.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Dapper.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Humanizer.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.ClientModel.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.CodeDom.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Memory.Data.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Text.Json.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.csproj.AssemblyReference.cache
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.GeneratedMSBuildEditorConfig.editorconfig
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.AssemblyInfoInputs.cache
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.AssemblyInfo.cs
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.csproj.CoreCompileInputs.cache
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.MvcApplicationPartsAssemblyInfo.cs
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.MvcApplicationPartsAssemblyInfo.cache
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\scopedcss\bundle\WebAPIProjectFirst.styles.css
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets.build.json
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets.development.json
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets\msbuild.WebAPIProjectFirst.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets\msbuild.WebAPIProjectFirst.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPIProjectFirst.props
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIProjectFirst.props
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPIProjectFirst.props
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets.pack.json
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIPr.35A221B2.Up2Date
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\refint\WebAPIProjectFirst.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.pdb
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.genruntimeconfig.cache
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\ref\WebAPIProjectFirst.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Auth0.AspNetCore.Authentication.dll
+E:\SUSHMITHA\_Projects\.NET\Asp .NET Core\Projects\new\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\appsettings.Development.json
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\WebAPIProjectFirst.staticwebassets.endpoints.json
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\appsettings.json
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\WebAPIProjectFirst.exe
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\WebAPIProjectFirst.deps.json
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\WebAPIProjectFirst.runtimeconfig.json
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\WebAPIProjectFirst.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\WebAPIProjectFirst.pdb
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Auth0.AspNetCore.Authentication.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Azure.Core.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Azure.Identity.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Dapper.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Humanizer.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.OpenApi.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Mono.TextTemplating.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.ClientModel.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.CodeDom.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Composition.Convention.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Composition.Hosting.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Composition.Runtime.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Composition.TypedParts.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Drawing.Common.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Formats.Asn1.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.IO.Pipelines.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Memory.Data.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Runtime.Caching.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Security.Permissions.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Text.Json.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\System.Windows.Extensions.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.csproj.AssemblyReference.cache
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.GeneratedMSBuildEditorConfig.editorconfig
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.AssemblyInfoInputs.cache
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.AssemblyInfo.cs
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.csproj.CoreCompileInputs.cache
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.MvcApplicationPartsAssemblyInfo.cs
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.MvcApplicationPartsAssemblyInfo.cache
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\scopedcss\bundle\WebAPIProjectFirst.styles.css
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets.build.json
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets.development.json
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets\msbuild.WebAPIProjectFirst.Microsoft.AspNetCore.StaticWebAssets.props
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets\msbuild.WebAPIProjectFirst.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPIProjectFirst.props
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIProjectFirst.props
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPIProjectFirst.props
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets.pack.json
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIPr.35A221B2.Up2Date
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\refint\WebAPIProjectFirst.dll
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.pdb
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\WebAPIProjectFirst.genruntimeconfig.cache
+\\10.15.1.24\Video1\08.SOFTWARE DEPARTMENT\Sushmitha\TSP\Feb\STC_TSP_WebAPI_Code\18\WebAPIProjectFirst\WebAPIProjectFirst\obj\Debug\net8.0\ref\WebAPIProjectFirst.dll
